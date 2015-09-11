@@ -1,0 +1,17 @@
+Centre - Left (3,6)
+
+http://localhost/add_data.php?RFID=123ABC&node1=87&node2=90&node3=0&altitude=20
+
+Bottom Left - Very close to Node 1 (2,2)
+
+http://localhost/add_data.php?RFID=123ABC&node1=95&node2=30&node3=30&altitude=20
+
+	
+
+
+
+
+
+
+
+
